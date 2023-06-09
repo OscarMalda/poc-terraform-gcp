@@ -51,4 +51,4 @@ terraform apply
 
 ## Authors 🐒
 
-* @OscarMalda - https://github.com/OscarMalda
+* @OscarMalda - https://www.oscarmalda.com
