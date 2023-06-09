@@ -1,7 +1,7 @@
 # POC Terraform GCP
 ![coverage](https://img.shields.io/badge/Developed%20by-Oscar-orange)
 
-This is a POC of basic Terraform sprints for GCP.
+This is a POC of basic Terraform scripts for GCP.
 
 ## Getting Started 📖
 
